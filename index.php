@@ -12,7 +12,6 @@ session_start();
     <!-- Developed by Gad IRADUFASHA & Aimee -->
     <!-- At https://www.donnekt.com -->
     <!-- Github: https://github.com/Gadrawingz -->
-    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="au theme template">
@@ -41,7 +40,6 @@ session_start();
 
     <!-- Main CSS-->
     <link href="css/theme.css" rel="stylesheet" media="all">
-
 </head>
 
 
